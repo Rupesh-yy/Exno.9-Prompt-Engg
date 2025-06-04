@@ -1,4 +1,4 @@
-##Ex. No.: 9 - To Explore and Understand the Various Prompting Techniques Used for Generating Videos Through AI Models
+Ex. No.: 9 - To Explore and Understand the Various Prompting Techniques Used for Generating Videos Through AI Models
 
 
 Aim:
